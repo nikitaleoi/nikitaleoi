@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning through the odin project.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: nikitasuchak123@gmail.com
+- 📫 How to reach me: npsuchak@my.yorku.ca
 
 <!---
 nikitaleoi/nikitaleoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
